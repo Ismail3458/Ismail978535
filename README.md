@@ -1,2 +1,7 @@
-# Ismail978535
-Рашидов Исмаил Рубильевич. Уткин Артем Александрович
+#include<iostream>
+#include<cstdlib>
+using namespace std;
+int main()
+{ cout«"Hello world"«endl; system("pause");
+ return 0;
+}
